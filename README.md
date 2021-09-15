@@ -31,11 +31,11 @@ Frontend Framework: React Native
 Data Platform: Firebase
 ```
 
-## 4. Design Details
+<!-- ## 4. Design Details
 
 <img src="https://github.com/harachoi/harachoi.github.io/blob/master/assets/images/CookIO/cookio-design_details.PNG" width="80%" align="center">
 
-## 3. Views & Source Codes
+## 3. Views & Source Codes -->
 
 <!-- #### 1) View U.S. COVID-19 Statistics 
 - The user can select one state and another state to compare.
